@@ -5,7 +5,9 @@
 #### ▪️ Bootstrap 을 활용하여  페이지 제작
 
 #### ▪️ Github Page 로 배포 
+
 [StyleGuide](https://eunahpae.github.io/mega/스타일가이드/스타일가이드.pdf)
+
 [Mega:ReDesign](https://eunahpae.pythonanywhere.com/)
 
 
