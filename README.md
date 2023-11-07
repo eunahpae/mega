@@ -8,7 +8,7 @@
 
 [StyleGuide](https://eunahpae.github.io/mega/스타일가이드/스타일가이드.pdf)
 
-[Mega:ReDesign](https://eunahpae.pythonanywhere.com/)
+[Demo](https://eunahpae.github.io/mega/)
 
 
 
